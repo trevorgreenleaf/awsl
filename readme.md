@@ -9,7 +9,8 @@ This is a PHP project that is designed to get you up and running with various Am
 
 ### Prerequisites
 
-**PHP Environment** 
+**PHP Environment**
+ 
 You will need to have a PHP environment setup. If you are a Mac I would recommend setting up Laravel Valet. You can see the docs here:
 [Laravel Valet Docs](https://laravel.com/docs/5.7/valet)
 or you can watch a tutorial here:
@@ -18,12 +19,14 @@ or you can watch a tutorial here:
 If you are running on Windows you may want to try WAMP or MAMP
 
 **Composer**
+
 We will need composer to install the necessary PHP packages
 [Documentation for composer](https://getcomposer.org/)
 or you can watch a tutorial here: 
 [CodeTime Setting up Composer](https://codetime.io/series/getting-started-with-composer)
 
 **Amazon Web Services Account**
+
 You can use your preexisting account or create and account just for this.
 [Get AWS account](https://aws.amazon.com/)
 
