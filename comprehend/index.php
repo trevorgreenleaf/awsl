@@ -1,10 +1,6 @@
 <?php
-// load all of the vendor packages
-require 'vendor/autoload.php';
-
-// load up the data from the env
-$dotenv = Dotenv\Dotenv::create(__DIR__);
-$dotenv->load();
+// load all of the necessary setup in one file
+require '../init.php';
 
 // instantiate the Comprehend class so we make requests with it
 $client = new Aws\Comprehend\ComprehendClient([

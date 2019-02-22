@@ -1,2 +1,4 @@
 /vendor
 /.env
+*.mp3
+/polly/test.mp3
